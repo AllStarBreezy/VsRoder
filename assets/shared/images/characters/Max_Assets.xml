@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Max_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="max down0000" x="0" y="0" width="573" height="503" frameX="0" frameY="-16" frameWidth="573" frameHeight="519"/>
+	<SubTexture name="max down0001" x="0" y="0" width="573" height="503" frameX="0" frameY="-16" frameWidth="573" frameHeight="519"/>
+	<SubTexture name="max down0002" x="573" y="0" width="561" height="519" frameX="0" frameY="0" frameWidth="573" frameHeight="519"/>
+	<SubTexture name="max down0003" x="573" y="0" width="561" height="519" frameX="0" frameY="0" frameWidth="573" frameHeight="519"/>
+	<SubTexture name="max down0004" x="1134" y="0" width="561" height="519" frameX="0" frameY="0" frameWidth="573" frameHeight="519"/>
+	<SubTexture name="max idle0000" x="1695" y="0" width="590" height="546" frameX="-9" frameY="-11" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0001" x="1695" y="0" width="590" height="546" frameX="-9" frameY="-11" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0002" x="2285" y="0" width="605" height="550" frameX="-4" frameY="-8" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0003" x="2285" y="0" width="605" height="550" frameX="-4" frameY="-8" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0004" x="2890" y="0" width="610" height="557" frameX="-2" frameY="-2" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0005" x="2890" y="0" width="610" height="557" frameX="-2" frameY="-2" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0006" x="0" y="557" width="613" height="559" frameX="0" frameY="-1" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0007" x="0" y="557" width="613" height="559" frameX="0" frameY="-1" frameWidth="613" frameHeight="560"/>
+	<SubTexture name="max idle0008" x="613" y="557" width="613" height="560"/>
+	<SubTexture name="max idle0009" x="613" y="557" width="613" height="560"/>
+	<SubTexture name="max idle0010" x="613" y="557" width="613" height="560"/>
+	<SubTexture name="max idle0011" x="613" y="557" width="613" height="560"/>
+	<SubTexture name="max idle0012" x="613" y="557" width="613" height="560"/>
+	<SubTexture name="max idle0013" x="613" y="557" width="613" height="560"/>
+	<SubTexture name="max left0000" x="1226" y="557" width="613" height="559" frameX="0" frameY="-1" frameWidth="633" frameHeight="560"/>
+	<SubTexture name="max left0001" x="1226" y="557" width="613" height="559" frameX="0" frameY="-1" frameWidth="633" frameHeight="560"/>
+	<SubTexture name="max left0002" x="1839" y="557" width="622" height="560" frameX="-11" frameY="0" frameWidth="633" frameHeight="560"/>
+	<SubTexture name="max left0003" x="1839" y="557" width="622" height="560" frameX="-11" frameY="0" frameWidth="633" frameHeight="560"/>
+	<SubTexture name="max left0004" x="2461" y="557" width="622" height="560" frameX="-11" frameY="0" frameWidth="633" frameHeight="560"/>
+	<SubTexture name="max right0000" x="3083" y="557" width="632" height="560"/>
+	<SubTexture name="max right0001" x="3083" y="557" width="632" height="560"/>
+	<SubTexture name="max right0002" x="0" y="1117" width="620" height="559" frameX="-11" frameY="-1" frameWidth="632" frameHeight="560"/>
+	<SubTexture name="max right0003" x="0" y="1117" width="620" height="559" frameX="-11" frameY="-1" frameWidth="632" frameHeight="560"/>
+	<SubTexture name="max right0004" x="620" y="1117" width="620" height="559" frameX="-11" frameY="-1" frameWidth="632" frameHeight="560"/>
+	<SubTexture name="max right0005" x="620" y="1117" width="620" height="559" frameX="-11" frameY="-1" frameWidth="632" frameHeight="560"/>
+	<SubTexture name="max right0006" x="1240" y="1117" width="620" height="559" frameX="-11" frameY="-1" frameWidth="632" frameHeight="560"/>
+	<SubTexture name="max up0000" x="1860" y="1117" width="653" height="582" frameX="-3" frameY="0" frameWidth="659" frameHeight="582"/>
+	<SubTexture name="max up0001" x="1860" y="1117" width="653" height="582" frameX="-3" frameY="0" frameWidth="659" frameHeight="582"/>
+	<SubTexture name="max up0002" x="2513" y="1117" width="659" height="574" frameX="0" frameY="-8" frameWidth="659" frameHeight="582"/>
+	<SubTexture name="max up0003" x="2513" y="1117" width="659" height="574" frameX="0" frameY="-8" frameWidth="659" frameHeight="582"/>
+	<SubTexture name="max up0004" x="3172" y="1117" width="659" height="574" frameX="0" frameY="-8" frameWidth="659" frameHeight="582"/>
+	<SubTexture name="max up0005" x="3172" y="1117" width="659" height="574" frameX="0" frameY="-8" frameWidth="659" frameHeight="582"/>
+	<SubTexture name="max up0006" x="0" y="1699" width="659" height="574" frameX="0" frameY="-8" frameWidth="659" frameHeight="582"/>
+</TextureAtlas>
